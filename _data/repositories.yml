@@ -1,9 +1,11 @@
 github_users:
-  - torvalds
+  - meenrock
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
+  - meenrock/supawatpro
+  - meenrock/my-documentation
+  - meenrock/next-profile
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
