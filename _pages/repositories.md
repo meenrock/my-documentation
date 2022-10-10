@@ -2,7 +2,8 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: The showcases of my repository and my friend repository. Including the used repository inside the blog project as well.
+For more information. Please kindly navigate to <a href='https://github.com/meenrock'> GitHub </a>.
 nav: true
 nav_order: 3
 ---
