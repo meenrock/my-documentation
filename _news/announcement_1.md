@@ -3,6 +3,7 @@ layout: post
 title: Nuclear Waste Solutions, We have it for decades.
 date: 2022-10-10 16:11:00-0400
 inline: false
+category: news
 ---
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
