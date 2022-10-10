@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Meen Documentation # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Supawat
 middle_name: Meen
 last_name: Suntornlimsiri
@@ -140,7 +140,7 @@ collections:
     defaults:
       layout: post
     output: true
-    #permalink: /news/:path/
+    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
