@@ -5,11 +5,9 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: homepage
-      permalink: https://meenrock.github.io/supawatpro/
+    - title: publications
+      permalink: /publications/
     - title: divider
-    #- title: publications
-    #  permalink: /publications/
     - title: projects
       permalink: /projects/
 ---

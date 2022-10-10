@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My news blog
-date: 2015-11-07 16:11:00-0400
+title: Nuclear Waste Solutions, We have it for decades.
+date: 2022-10-10 16:11:00-0400
 inline: false
 ---
 
