@@ -3,7 +3,6 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: The showcases of my repository and my friend repository. Including the used repository inside the blog project as well.
-For more information. Please kindly navigate to <a href='https://github.com/meenrock'> GitHub </a>.
 nav: true
 nav_order: 3
 ---
