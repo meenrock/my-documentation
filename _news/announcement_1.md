@@ -1,7 +1,12 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Storage and Disposal of Radioactive Waste
+date: 2022-10-10 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Radioactive wastes are stored so as to avoid any chance of radiation exposure to people, or any pollution.
+
+***
+
+
