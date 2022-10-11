@@ -3,9 +3,9 @@ github_users:
   - bellmcp
 
 github_repos:
+  - meenrock/supawatproV2
   - meenrock/supawatpro
   - meenrock/my-documentation
-  - meenrock/next-profile
   - bellmcp/bellmcp.github.io
   - twbs/bootstrap
   - jekyll/jekyll
