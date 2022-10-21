@@ -7,17 +7,23 @@ importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Apollo Server is an open-source GraphQL Server Project.
+Running on Node.js HTTP Server. In this case Express JS.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The Architecture and Design on Server is flexible and open up
+to more than just GraphQL. The Aggregation and Integration is
+simple and quick to implement from REST API to Databases.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    
+    const server = new ApolloServer({
+    typeDefs,
+    resolvers,
+    dataSources: () => ({ userAPI, launchAPI }),
+    context: () => ({ user: { id: 1, email: 'a@a.a' } }),
+    });
+    await server.start();
+
     ---
 
 <div class="row">
