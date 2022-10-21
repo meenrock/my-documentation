@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Apollo Server for Backend Microservices
+description: Apollo Server can house collections of API within one service for easy deployment and maintenances
+img: assets\img\frontend_backend_diagram.svg
 importance: 1
 category: work
 ---
