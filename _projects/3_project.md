@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Farmtrust, large scale farming yield improvement
+description: Multi-Platform Application for farmer and agriculture business
+img: assets/img/farmtrust.jpg
+redirect: https://vsni.co.uk/services/farmtrust
 importance: 3
 category: work
 ---
