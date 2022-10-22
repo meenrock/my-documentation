@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: NEXT JS Profile Web
 description: a project with no image
 img: assets/img/1.jpg
 importance: 4
-category: fun
+category: future
 ---
 
 Every project has a beautiful feature showcase page.

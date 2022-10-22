@@ -5,7 +5,7 @@ permalink: /projects/
 description: My current and planned future project existed or not existed on GitHub Repository.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, fun, future]
 horizontal: false
 ---
 
