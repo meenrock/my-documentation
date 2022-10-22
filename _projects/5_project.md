@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Jekyll Documentation Site
+description: easy and quick way to display your project documentation on internet!
 img: assets/img/1.jpg
 importance: 3
 category: fun

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Proxmox VM and hosting services
+description: Design, Develop, Deploy and Manages your own services
 img: assets/img/1.jpg
 importance: 4
 category: fun
