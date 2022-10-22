@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: EDI Generator with .NET Web Apps
+description: Electronic Document Interchange using .NET to Transfer PO or Other business document
+img: assets/img/PO-sections.jpg
 importance: 2
 category: work
 ---
