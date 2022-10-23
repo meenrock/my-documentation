@@ -54,6 +54,7 @@ The Model use for accessing database via EntityFramework, which is written in re
 </div>
 
 The View pages with C# HTML Language for rendering pages:
+
     ---
         @{
             ViewBag.Title = "Home Page";
