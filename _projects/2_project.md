@@ -32,7 +32,7 @@ The Model use for accessing database via EntityFramework, which is written in re
             public string LastName { get; set; }
             public string FirstName { get; set; }
             public DateTime CreatedDate { get; set; }
-            
+
         }
     }
     ---
@@ -49,8 +49,33 @@ The Model use for accessing database via EntityFramework, which is written in re
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The overall apperance for the EDI Generator Web Application using Microsoft Entity Framework to connect with
+    SQL Server and ODBC Drivers for IBM AS400 Database storing Banking and Company Stocks of Inventory Information.
 </div>
+
+The View pages with C# HTML Language for rendering pages:
+    ---
+        @{
+            ViewBag.Title = "Home Page";
+        }
+
+        <div class="container">
+            <h1>Nav Users</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                @Html.ActionLink("University", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <div class="nav-collapse collapse">
+                    <ul class="nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Users", "Index", "User")</li>
+                    </ul>
+            </div>
+        </div>
+
+    ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
