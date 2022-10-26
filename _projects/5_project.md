@@ -2,7 +2,7 @@
 layout: page
 title: Project Portfolio Site
 description: easy and quick way to display your project documentation on internet!
-img: assets/img/portfolio.png
+img: assets/img/portfolio.PNG
 importance: 3
 category: fun
 ---
