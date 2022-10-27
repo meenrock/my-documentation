@@ -2,7 +2,7 @@
 layout: page
 title: Proxmox VM and hosting services
 description: Design, Develop, Deploy and Manages your own services
-img: assets/img/1.jpg
+img: assets\img\proxmox-diagram.svg
 importance: 4
 category: fun
 ---
