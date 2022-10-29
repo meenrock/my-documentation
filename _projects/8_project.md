@@ -2,7 +2,7 @@
 layout: page
 title: plant health monitor
 description: Agriculture Project with Integrated Circuit Board or Embedded System for Plant Health Monitor and control the environment for the flora
-img: assets/img/1.jpg
+img: assets/img/plantproj.webp
 redirect: https://create.arduino.cc/projecthub/murthysiddhant/plant-monitor-sensor-to-front-end-c1f715
 importance: 4
 category: future
