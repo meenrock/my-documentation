@@ -2,15 +2,17 @@
 layout: page
 title: computation fluid dynamic and mechanical design of impeller
 description: My university graduates project to design, evaluate and choosing the best design for each implementation
-img: assets/img/plantproj.webp
-redirect: https://create.arduino.cc/projecthub/murthysiddhant/plant-monitor-sensor-to-front-end-c1f715
+img: assets/img/impeller.png
 importance: 3
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+An impeller is a rotating structure with a set of blades and vanes. These blades are fitted inside the shroud plates and filled in with water. 
+When the impeller rotates, the fluid get energy transferred from kinetic energy into pressure. The water flows out radially 
+through the centrifugal force exerted by the impeller. Which get redirected into preferred outlet pipe or passage. 
+The pressure and kinetic energy of the water rises at the output side of the impeller because the 
+rotational mechanical energy is transferred to the liquid. The Centrifugal can be implemented on many general and 
+specific application. For an example, the binge pump for displace water. Therefore, made design and evaluation process crucial for implementation. 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
