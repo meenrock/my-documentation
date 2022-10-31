@@ -5,7 +5,7 @@ description: Agriculture Project with Integrated Circuit Board or Embedded Syste
 img: assets/img/plantproj.webp
 redirect: https://create.arduino.cc/projecthub/murthysiddhant/plant-monitor-sensor-to-front-end-c1f715
 importance: 4
-category: future
+category: upcoming
 ---
 
 Every project has a beautiful feature showcase page.
