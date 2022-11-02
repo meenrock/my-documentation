@@ -3,7 +3,7 @@ layout: page
 title: computation fluid dynamic and mechanical design of impeller
 description: My university graduates project to design, evaluate and choosing the best design for each implementation
 img: assets/img/impeller.png
-importance: 3
+importance: 4
 category: academics
 ---
 
