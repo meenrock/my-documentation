@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EDI Generator with .NET Web Apps
+title: EDI Generator
 description: Electronic Document Interchange using .NET to Transfer PO or Other business document
 img: assets/img/PO-sections.jpg
 importance: 2
