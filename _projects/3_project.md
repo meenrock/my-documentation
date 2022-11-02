@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Farmtrust, large scale farming yield improvement
+title: Farmtrust
 description: Multi-Platform Application for farmer and agriculture business
 img: assets/img/farmtrust.jpg
 redirect: https://vsni.co.uk/services/farmtrust

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEXT JS Profile Web
+title: Profile Website
 description: New & Improved Profile Website with SSG & SSR Features
 img: assets/img/nextjs.jpeg
 redirect: https://supawatpro-v2.vercel.app/
