@@ -4,7 +4,7 @@ title: computation fluid dynamic and mechanical design of impeller
 description: My university graduates project to design, evaluate and choosing the best design for each implementation
 img: assets/img/impeller.png
 importance: 3
-category: academic
+category: academics
 ---
 
 An impeller is a rotating structure with a set of blades and vanes. These blades are fitted inside the shroud plates and filled in with water. 
