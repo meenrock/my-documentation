@@ -1,6 +1,6 @@
 ---
 layout: page
-title: computation fluid dynamic
+title: computational fluid dynamic
 description: My university graduates project to design, evaluate and choosing the best design for each implementation
 img: assets/img/impeller.png
 importance: 4
@@ -14,14 +14,18 @@ The pressure and kinetic energy of the water rises at the output side of the imp
 rotational mechanical energy is transferred to the liquid. The Centrifugal can be implemented on many general and 
 specific application. For an example, the binge pump for displace water. Therefore, made design and evaluation process crucial for implementation. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The equation and formula used for pressure and velocity calculation are comprise of following
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Fluid Static, defining fluid pressure at rest:
+
+    "∇p= -g" ∫_("z" _"0" )^"z" ▒〖"ρd" "z"  ̃ 〗
+
+    "∆p = ρ g ∆z" 
+
+<div class="caption">
+    Equation describing incompressible fluid pressure at a height.
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
