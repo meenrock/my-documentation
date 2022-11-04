@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apollo Server for Backend Microservices
+title: Backend Microservices
 description: Apollo Server can house collections of API within one service for easy deployment and maintenances
 img: assets\img\frontend_backend_diagram.svg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stock Price Prediction by Machine Learning
+title: Stock Price Prediction
 description: free time experiment using RNN, LSTM to predict stock price trends
 img: assets\img\lstm.png
 importance: 3
