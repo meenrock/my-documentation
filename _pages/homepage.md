@@ -6,11 +6,11 @@ nav_order: 1
 dropdown: true
 children: 
     - title: homepage
-      permalink: https://meenrock.github.io/supawatpro/
+      permalink: https://meen-profile.vercel.app/
     - title: divider
     - title: my resume
-      permalink: https://meenrock.github.io/supawatpro/resume.html
+      permalink: https://meen-profile.vercel.app/project
     - title: divider
     - title: contacts
-      permalink: https://meenrock.github.io/supawatpro/contact.html
+      permalink: https://meen-profile.vercel.app/project
 ---
